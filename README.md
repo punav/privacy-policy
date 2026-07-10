@@ -1,5 +1,6 @@
 PRIVACY POLICY
 Updated at April 23rd, 2026
+
 pathya (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how your
 personal information is collected, used, and disclosed by pathya.
 This Privacy Policy applies to our app, and its associated subdomains (collectively, our “Service”) alongside
